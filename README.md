@@ -1,4 +1,4 @@
-Fork from [https://github.com/samie820/hooks-movie-app.git](https://github.com/samie820/hooks-movie-app.git)
+Fork from [https://github.com/samie820/hooks-movie-app.git](https://github.com/samie820/hooks-movie-app.git).
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
